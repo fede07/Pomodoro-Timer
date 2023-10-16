@@ -1,4 +1,3 @@
-from cgitb import text
 import math
 from tkinter import Tk, Button, Label, Canvas, PhotoImage
 
